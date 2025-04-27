@@ -1,2 +1,36 @@
 # NoteSatchel-ToDoList
 A simple and intuitive To-Do List App built with React.
+
+Features
+- Add new tasks with a customizable text input
+- Mark tasks as completed with a checkbox
+- Delete tasks with a delete button
+- Animated transitions for a smooth user experience
+- Sound effects for a more engaging experience
+
+Usage
+1. Clone the repository to your local machine.
+2. Install the required dependencies by running npm install or yarn install.
+3. Start the application by running npm start or yarn start.
+4. Open your web browser and navigate to http://localhost:3000.
+
+Components
+- App.js: The main application component.
+- List.js: The component responsible for rendering individual tasks.
+- AddList.js: The component responsible for adding new tasks.
+
+Sound Effects
+- delete.mp3: Played when a task is deleted.
+- complete.mp3: Played when a task is marked as completed.
+- writing.mp3: Played when a new task is added.
+
+Styles
+- list.css: Styles for the List component.
+- addList.css: Styles for the AddList component.
+
+Dependencies
+- react: The React library.
+- @mui/icons-material: Material-UI icons.
+
+License
+This project is licensed under the MIT License. See LICENSE for details.
