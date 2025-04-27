@@ -12,7 +12,6 @@ Usage
 1. Clone the repository to your local machine.
 2. Install the required dependencies by running npm install or yarn install.
 3. Start the application by running npm start or yarn start.
-4. Open your web browser and navigate to http://localhost:3000.
 
 Components
 - App.js: The main application component.
@@ -26,7 +25,6 @@ Sound Effects
 
 Styles
 - list.css: Styles for the List component.
-- addList.css: Styles for the AddList component.
 
 Dependencies
 - react: The React library.
