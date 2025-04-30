@@ -18,11 +18,6 @@ Components
 - List.js: The component responsible for rendering individual tasks.
 - AddList.js: The component responsible for adding new tasks.
 
-Sound Effects
-- delete.mp3: Played when a task is deleted.
-- complete.mp3: Played when a task is marked as completed.
-- writing.mp3: Played when a new task is added.
-
 Styles
 - list.css: Styles for the List component.
 
