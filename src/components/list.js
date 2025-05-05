@@ -2,9 +2,10 @@ import './list.css';
 import ClearIcon from '@mui/icons-material/Clear';
 
 function List(props) {
+  console.log("List: ", props.dataKey)
 
   function handleClick() {
-    props.onDelete(props.id);
+    props.onDelete(props.dataKey);
   }
 
   return (
