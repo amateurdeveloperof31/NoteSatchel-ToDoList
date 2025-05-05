@@ -26,7 +26,7 @@ Dependencies
 - @mui/icons-material: Material-UI icons.
 
 Screenshots
-![Main Screenshot](./screenshots/NoteSatchel.jpg)
+![Main Screenshot](./screenshots/NoteSatchel-Screenshot.jpg)
 
 License
 This project is licensed under the MIT License. See LICENSE for details.
