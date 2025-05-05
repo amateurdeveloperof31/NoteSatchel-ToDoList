@@ -25,5 +25,8 @@ Dependencies
 - react: The React library.
 - @mui/icons-material: Material-UI icons.
 
+Screenshots
+- ![Main Screenshot](./screenshots/NoteSatchel.jpg)
+
 License
 This project is licensed under the MIT License. See LICENSE for details.
